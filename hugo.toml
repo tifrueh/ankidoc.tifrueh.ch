@@ -1,0 +1,9 @@
+baseURL = 'https://ankidoc.tifrueh.ch'
+languageCode = 'en-GB'
+title = 'Ankidoc'
+theme = 'ankidoc'
+pluralizeListTitles = false
+capitalizeListTitles = false
+
+[taxonomies]
+    tag = 'tags'
