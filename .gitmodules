@@ -1,0 +1,3 @@
+[submodule "themes/ankidoc"]
+	path = themes/ankidoc
+	url = https://github.com/tifrueh/hugo-ankidoc.git
