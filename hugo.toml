@@ -7,3 +7,24 @@ capitalizeListTitles = false
 
 [taxonomies]
     tag = 'tags'
+
+[security]
+  enableInlineShortcodes = false
+
+  [security.exec]
+    allow = ['asciidoctor']
+
+[markup]
+  [markup.asciidocExt]
+    backend = 'html5'
+    extensions = []
+    failureLevel = 'fatal'
+    noHeaderOrFooter = true
+    preserveTOC = false
+    safeMode = 'server'
+    sectionNumbers = false
+    trace = false
+    verbose = false
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
+        source-highlighter = 'rouge'
