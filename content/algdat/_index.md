@@ -1,5 +1,5 @@
 +++
-title = '2024-s2: Algorithmen und Datenstrukturen'
+title = 'Algorithmen und Datenstrukturen HS2024 (252-0026-00L)'
 [params]
     abbr = 'AlgDat'
 +++

@@ -1,5 +1,5 @@
 +++
-title = '2024-s2: Einführung in die Programmierung'
+title = 'Einführung in die Programmierung HS2024 (252-0027-00L)'
 [params]
     abbr = 'EinPro'
 +++
